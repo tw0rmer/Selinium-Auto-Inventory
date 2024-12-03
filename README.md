@@ -1,10 +1,18 @@
 # **Selenium Auto Inventory Bot**
 
 ![Application Screenshot](app-screenshot.png)
-
+ 
 A **Selenium-based automation tool** that interacts with a warehouse management system to download inventory reports in `.xlsx` format at user-defined intervals.
 
 [GitHub Repository](https://github.com/tw0rmer/Selinium-Auto-Inventory.git)
+
+#Purpose
+This tool was created for Bulletproof Logistics Company, a 3PL (Third-Party Logistics) service provider, to automate inventory management tasks within their warehouse management system. By automating repetitive processes like refreshing inventory and exporting data to Excel, it saves time and reduces errors.
+
+#Developer
+This program was coded by Jason Manceaux as part of a custom solution for Bulletproof Logistics. Jason specializes in automation tools designed to optimize logistics operations.
+
+
 
 ---
 
