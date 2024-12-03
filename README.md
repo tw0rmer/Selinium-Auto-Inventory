@@ -1,5 +1,7 @@
 # **Selenium Auto Inventory Bot**
 
+![Application Screenshot](app-screenshot.png)
+
 A **Selenium-based automation tool** that interacts with a warehouse management system to download inventory reports in `.xlsx` format at user-defined intervals.
 
 [GitHub Repository](https://github.com/tw0rmer/Selinium-Auto-Inventory.git)
